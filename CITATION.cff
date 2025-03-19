@@ -1,11 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-authors:
-- family-names: "Venegas"
-  given-names: "Douglas"
-  orcid: "https://orcid.org/0000-0002-1352-9697"
-title: "Stack_Visualization_of_Metabolomic_Taxonomies"
+title: "Stack Visualization of Metabolomic Taxonomies"
 version: 2.0.4
-doi: 10.5281/zenodo.1234
-date-released: 2025
+doi: "10.5281/zenodo.1234"
+date-released: 2025-03-19
 url: "https://github.com/DouglasVenegas"
+authors:
+  - family-names: "Venegas"
+    given-names: "Douglas"
+    orcid: "https://orcid.org/0000-0002-1352-9697"
+    affiliation: "CENIBiot-CeNAT-CONARE"
