@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "Stack Visualization of Metabolomic Taxonomies"
 version: 2.0.4
-doi: "10.5281/zenodo.1234"
+doi: "10.5281/zenodo.15050756"
 date-released: 2025-03-19
 url: "https://github.com/DouglasVenegas"
 authors:
