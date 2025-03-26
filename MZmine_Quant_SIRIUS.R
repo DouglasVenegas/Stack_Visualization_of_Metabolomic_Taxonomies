@@ -67,7 +67,7 @@ ggsave("plot/features_sample.svg", plot = plot, width = 10, height = 6, device =
 
 plot
 
-## Considering replicates 
+## Considering replicates
 
 Quant_metadata <- Quant
 colnames(Quant_metadata)[2:ncol(Quant_metadata)] <- sapply(colnames(Quant_metadata)[2:ncol(Quant_metadata)], function(x) 
@@ -809,5 +809,3 @@ ggsave("plot/proportion_CF_subclass_sample_metadata.svg", plot = CF_subclass_sam
 
 
 CF_subclass_sample_Metadata
-
-
